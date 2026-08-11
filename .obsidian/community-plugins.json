@@ -1,3 +1,6 @@
 [
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "obsidian-charts",
+  "previous-river"
 ]

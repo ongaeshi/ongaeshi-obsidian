@@ -1,0 +1,5 @@
+{
+  "folder": "02_Daily",
+  "template": "Templates/デイリーノートテンプレート.md",
+  "format": "GGGG/[W]WW/YYYY-MM-DD"
+}
